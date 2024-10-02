@@ -47,17 +47,17 @@ Este projeto implementa uma API RESTful simples para gerenciar pacientes de uma 
 
 #### Listar todos os pacientes
 ```
-GET http://localhost/clinica_api/
+GET http://localhost/index.php/
 ```
 
 #### Buscar um paciente específico (por exemplo, ID 1)
 ```
-GET http://localhost/clinica_api/1
+GET http://localhost/index.php/1
 ```
 
 #### Criar um novo paciente
 ```
-POST http://localhost/clinica_api/
+POST http://localhost/index.php/
 Content-Type: application/json
 
 {
@@ -70,7 +70,7 @@ Content-Type: application/json
 
 #### Atualizar um paciente existente (por exemplo, ID 1)
 ```
-PUT http://localhost/clinica_api/1
+PUT http://localhost/index.php/1
 Content-Type: application/json
 
 {
@@ -81,7 +81,7 @@ Content-Type: application/json
 
 #### Excluir um paciente (por exemplo, ID 1)
 ```
-DELETE http://localhost/clinica_api/1
+DELETE http://localhost/index.php/1
 ```
 
 ## Notas Importantes
