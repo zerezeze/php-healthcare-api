@@ -93,6 +93,4 @@ DELETE http://localhost/clinica_api/1
 
 Contribuições para melhorar este projeto são bem-vindas. Por favor, sinta-se à vontade para fazer um fork do repositório e enviar pull requests.
 
-## Licença
 
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
